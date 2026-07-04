@@ -101,26 +101,27 @@ Enter your choice:
 Add screenshots of the following:
 
 * Main Menu
-* 
 
 * Add Book
-* <img width="602" height="284" alt="image" src="https://github.com/user-attachments/assets/bde4339d-9088-46d6-a350-d26435f151a4" />
+ <img width="602" height="284" alt="image" src="https://github.com/user-attachments/assets/bde4339d-9088-46d6-a350-d26435f151a4" />
+ 
 * View Books
-* <img width="597" height="313" alt="image" src="https://github.com/user-attachments/assets/5aaafeda-9d65-49dc-8c93-50493f622aca" />
+ <img width="597" height="313" alt="image" src="https://github.com/user-attachments/assets/5aaafeda-9d65-49dc-8c93-50493f622aca" />
 
 * Search Book
-* <img width="597" height="361" alt="image" src="https://github.com/user-attachments/assets/3eb917f1-be17-4058-84af-11041a7c3931" />
+ <img width="597" height="361" alt="image" src="https://github.com/user-attachments/assets/3eb917f1-be17-4058-84af-11041a7c3931" />
 
 * Issue Book
-* <img width="680" height="315" alt="image" src="https://github.com/user-attachments/assets/9d766697-5c03-4076-8c54-ee1d88da4e18" />
+ <img width="680" height="315" alt="image" src="https://github.com/user-attachments/assets/9d766697-5c03-4076-8c54-ee1d88da4e18" />
 
 * Return Book
-* <img width="679" height="307" alt="image" src="https://github.com/user-attachments/assets/1cd01cbb-32c8-481b-91e7-9f125ff92b01" />
+ <img width="679" height="307" alt="image" src="https://github.com/user-attachments/assets/1cd01cbb-32c8-481b-91e7-9f125ff92b01" />
 
 * Delete Book
 <img width="677" height="314" alt="image" src="https://github.com/user-attachments/assets/8514ce68-6ec0-4ab2-9075-9ac8cf06446a" />
 
 *Exit 
+
 <img width="681" height="283" alt="image" src="https://github.com/user-attachments/assets/36dd5b68-a514-4257-869e-db9aac60b18c" />
 
 ---
